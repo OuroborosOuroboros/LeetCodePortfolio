@@ -18,6 +18,6 @@
 | 13 | [/LaserBeamsBank](./LaserBeamsBank)   | 2125          | Number of Laser Beams in a Bank                  | Medium     | C | Array                                   | [Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) |
 | 14 | [/MergeNodes](./MergeNodes)       | 2181          | Merge Nodes in Between Zeroes                    | Medium     | C | Linked List                             | [Link](https://leetcode.com/problems/merge-nodes-in-between-zeros/) |
 | 15 | [/MaxProductSubarray](./MaxProductSubarray) | 152         | Max Product Subarray                             | Medium     | C | Array, Dynamic Programming              | [Link](https://leetcode.com/problems/maximum-product-subarray/) |
-| 16 | [/PartMinDeciBinary](./PartMinDeciBinary) | 1689         | Partitioning into Minimum Number of Deci-Binary Numbers | Medium  | C | String, Greedy                      | [Link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
-| 17 | [/MergeKSortedLists](./MergeKSortedLists) | 23 | Merge k Sorted Lists | Hard | C | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort | [Link](https://leetcode.com/problems/merge-k-sorted-lists/)
+| 16 | [/PartMinDeciBinary](./PartMinDeciBinary) | 1689         | Partitioning into Minimum Number of Deci-Binary Numbers | Medium  | C | String, Greedy                      | [Link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) |
+| 17 | [/MergeKSortedLists](./MergeKSortedLists) | 23 | Merge k Sorted Lists | Hard | C | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) |
  
