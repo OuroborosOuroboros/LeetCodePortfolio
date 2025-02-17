@@ -28,3 +28,10 @@
 | 23 | [/ReduceDishes](./ReduceDishes) | 1402 | Reducing Dishes | Hard | C | Array, Dynamic Programming, Greedy, Sorting | [Link](https://leetcode.com/problems/reducing-dishes/) |
 | 24 | [/FibNumber](./FibNumber) | 509 | Fibonacci Number | Easy | C | Math, Dynamic Programming, Recursion, Memoization | [Link](https://leetcode.com/problems/fibonacci-number/) |
 | 25 | [/DivisorGame](./DivisorGame) | 1025 | Divisor Game | Easy | C | Math, Dynamic Programming, Brainteaser, Game Theory | [Link](https://leetcode.com/problems/divisor-game/) |
+
+
+---
+
+## Contact  
+For questions or feedback, please contact me at **[dgetch48@gmail.com](mailto:dgetch48@gmail.com)**.  
+
