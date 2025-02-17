@@ -25,3 +25,4 @@
 | 20 | [/Candy](./Candy) | 135 | Candy | Hard | Java | Array, Greedy | [Link](https://leetcode.com/problems/candy/) |
 | 21 | [/BurgersNoWaste](./BurgersNoWaste) | 1276 | Number of Burgers with No Waste of Ingredients | Medium | Java | Math | [Link](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) |
 | 22 | [/PartitionArrayMaxSum](./PartitionArrayMaxSum) | 1043 | Partition Array for Maximum Sum | Medium | C | Array, Dynamic Programming | [Link](https://leetcode.com/problems/partition-array-for-maximum-sum/) |
+| 23 | [/ReduceDishes](./ReduceDishes) | 1402 | Reducing Dishes | Hard | C | Array, Dynamic Programming, Greedy, Sorting | [Link](https://leetcode.com/problems/reducing-dishes/) |
