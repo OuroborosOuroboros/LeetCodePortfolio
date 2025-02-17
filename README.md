@@ -22,3 +22,4 @@
 | 17 | [/MergeKSortedLists](./MergeKSortedLists) | 23 | Merge k Sorted Lists | Hard | C | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | 18 | [/MedianTwoSortedArrays](./MedianTwoSortedArrays) | 4 | Median of Two Sorted Arrays | Hard | C | Array, Binary Search, Divide and Conquer | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
 | 19 | [/FindTownJudge](./FindTownJudge) | 997 | Find the Town Judge | Easy | C | Array, Hash Table, Graph | [Link](https://leetcode.com/problems/find-the-town-judge/) |
+| 20 | [/Candy](./Candy) | 135 | Candy | Hard | Java | Array, Greedy | [Link](https://leetcode.com/problems/candy/)
