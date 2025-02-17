@@ -27,3 +27,4 @@
 | 22 | [/PartitionArrayMaxSum](./PartitionArrayMaxSum) | 1043 | Partition Array for Maximum Sum | Medium | C | Array, Dynamic Programming | [Link](https://leetcode.com/problems/partition-array-for-maximum-sum/) |
 | 23 | [/ReduceDishes](./ReduceDishes) | 1402 | Reducing Dishes | Hard | C | Array, Dynamic Programming, Greedy, Sorting | [Link](https://leetcode.com/problems/reducing-dishes/) |
 | 24 | [/FibNumber](./FibNumber) | 509 | Fibonacci Number | Easy | C | Math, Dynamic Programming, Recursion, Memoization | [Link](https://leetcode.com/problems/fibonacci-number/) |
+| 25 | [/DivisorGame](./DivisorGame) | 1025 | Divisor Game | Easy | C | Math, Dynamic Programming, Brainteaser, Game Theory | [Link](https://leetcode.com/problems/divisor-game/) |
