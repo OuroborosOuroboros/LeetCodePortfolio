@@ -19,5 +19,5 @@
 | 14 | [/MergeNodes](./MergeNodes)       | 2181          | Merge Nodes in Between Zeroes                    | Medium     | Linked List                             | [Link](https://leetcode.com/problems/merge-nodes-in-between-zeros/) |
 | 15 | [/MaxProductSubarray](./MaxProductSubarray) | 152         | Max Product Subarray                             | Medium     | Array, Dynamic Programming              | [Link](https://leetcode.com/problems/maximum-product-subarray/) |
 | 16 | [/PartMinDeciBinary](./PartMinDeciBinary) | 1689         | Partitioning into Minimum Number of Deci-Binary Numbers | Medium  | String, Greedy                      | [Link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
-
+| 17 | [/MergeKSortedLists](./MergeKSortedLists) | 23 | Merge k Sorted Lists | Hard | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort | [Link](https://leetcode.com/problems/merge-k-sorted-lists/)
  
