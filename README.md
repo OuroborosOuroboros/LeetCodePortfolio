@@ -17,4 +17,6 @@
 | 12 | /ConcatArray      | 1929          | Concatenation of Array                           | Easy       | Array                                   | [Link](https://leetcode.com/problems/concatenation-of-array/) |
 | 13 | /LaserBeamsBank   | 2125          | Number of Laser Beams in a Bank                  | Medium     | Array                                   | [Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) |
 | 14 | /MergeNodes       | 2181          | Merge Nodes in Between Zeroes                    | Medium     | Linked List                             | [Link](https://leetcode.com/problems/merge-nodes-in-between-zeros/) |
+| 15 | /MaxProductSubarray | 152         | Max Product Subarray                             | Medium     | Array, Dynamic Programming              | [Link]([https://leetcode.com/](https://leetcode.com/problems/maximum-product-subarray/)
 
+ 
