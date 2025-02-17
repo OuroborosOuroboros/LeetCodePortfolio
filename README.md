@@ -1,6 +1,5 @@
-Davey Getchell
-CS 5008 Spring 2023
-LeetCode Portfolio
+Davey Getchell<br>
+LeetCode Portfolio<br>
 
 
 1.) /PascalsTriangleII
